@@ -1,0 +1,6 @@
+model_checkpoint_path: "/content/output_wx_2/model.ckpt-653"
+all_model_checkpoint_paths: "/content/output_wx_2/model.ckpt-528"
+all_model_checkpoint_paths: "/content/output_wx_2/model.ckpt-560"
+all_model_checkpoint_paths: "/content/output_wx_2/model.ckpt-591"
+all_model_checkpoint_paths: "/content/output_wx_2/model.ckpt-622"
+all_model_checkpoint_paths: "/content/output_wx_2/model.ckpt-653"

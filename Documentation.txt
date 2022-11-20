@@ -1,0 +1,6 @@
+1.wavegan-master.zip: the corresponding wave-gan code file from github
+2.WaveGan_test.ipynb : the steps to manipulate the above code file (including tendorflow installation, graphics card display, data mounting, data training, etc.)
+3.train_output_param : The parameter file obtained by wave-gan training on its own data (1, 2, 3, 4, 5 for the first training result; ..... for the second training result (and so on)
+4. wave_data : The wave effect data obtained by applying the training parameter file to your own audio data
+		      primeval_data: your own raw data
+		      wave_data : code to generate wave effect data

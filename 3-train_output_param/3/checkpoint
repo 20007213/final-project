@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/output_wx5/model.ckpt-0"
+all_model_checkpoint_paths: "/content/output_wx5/model.ckpt-0"

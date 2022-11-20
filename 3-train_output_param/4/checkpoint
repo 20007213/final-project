@@ -1,0 +1,3 @@
+model_checkpoint_path: "/content/output_wx6/model.ckpt-23"
+all_model_checkpoint_paths: "/content/output_wx6/model.ckpt-0"
+all_model_checkpoint_paths: "/content/output_wx6/model.ckpt-23"
